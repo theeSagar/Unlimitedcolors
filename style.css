@@ -1,0 +1,31 @@
+#start{
+    position: absolute;
+    top:10%;
+
+    background-color:#0a0a23;
+    color: #fff;
+    border:none; 
+    border-radius:10px; 
+    padding:15px;
+    min-height:30px; 
+    min-width: 120px}
+#start:hover{
+    background-color:#d69540;
+    transition: 0.1s;
+}
+#stop{
+    position: absolute;
+    top:10%;
+    left: 15%;
+    background-color:#0a0a23;
+    color: #fff;
+    border:none; 
+    border-radius:10px; 
+    padding:15px;
+    min-height:30px; 
+    min-width: 120px}
+
+#stop:hover{
+    background-color:#d69540;
+    transition: 0.1s;
+}
